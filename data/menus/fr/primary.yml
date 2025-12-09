@@ -15,4 +15,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Co-construire
+  target: "/co-construire/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/co-construire"
+  file: content/fr/pages/co-construire/_index.html
 
