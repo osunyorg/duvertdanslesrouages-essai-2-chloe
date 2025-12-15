@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Personnes
-  target: "/personnes/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
