@@ -1,35 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Renforcer la coopération territoriale entre acteurs
-  target: "/cooperation-territoriale-1/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Ingénierie de la gouvernance et de la coopération
-    target: "/cooperation-territoriale-1/ingenierie-gouvernance/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance"
-    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance/_index.html
-  - title: Facilitation territoriale et animation de concertations
-    target: "/cooperation-territoriale-1/ingenierie-gouvernance-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-1"
-    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-1/_index.html
-  - title: Ludification et intelligence collective
-    target: "/cooperation-territoriale-1/ingenierie-gouvernance-1-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-1-1"
-    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-1-1/_index.html
-  path: "/pages/cooperation-territoriale-1"
-  file: content/fr/pages/cooperation-territoriale-1/_index.html
-- title: Accompagner l'innovation publique territoriale
+- title: Innovation publique
   target: "/innovation-publique-1/"
   kind: page
   new_tab: false
@@ -57,7 +29,35 @@ items:
     file: content/fr/pages/innovation-publique-1/evaluation/_index.html
   path: "/pages/innovation-publique-1"
   file: content/fr/pages/innovation-publique-1/_index.html
-- title: Soutenir le développement des porteurs de solutions locales
+- title: Coopération territoriale
+  target: "/cooperation-territoriale-1/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Ingénierie de la gouvernance et de la coopération
+    target: "/cooperation-territoriale-1/ingenierie-gouvernance/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance"
+    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance/_index.html
+  - title: Facilitation territoriale et animation de concertations
+    target: "/cooperation-territoriale-1/ingenierie-gouvernance-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-1"
+    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-1/_index.html
+  - title: Ludification et intelligence collective
+    target: "/cooperation-territoriale-1/ingenierie-gouvernance-1-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-1-1"
+    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-1-1/_index.html
+  path: "/pages/cooperation-territoriale-1"
+  file: content/fr/pages/cooperation-territoriale-1/_index.html
+- title: Solutions locales
   target: "/cooperation-territoriale-1-1/"
   kind: page
   new_tab: false
@@ -85,18 +85,4 @@ items:
     file: content/fr/pages/cooperation-territoriale-1-1/transition-ess-1-1/_index.html
   path: "/pages/cooperation-territoriale-1-1"
   file: content/fr/pages/cooperation-territoriale-1-1/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
-- title: Personnes
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 
