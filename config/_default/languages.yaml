@@ -9,6 +9,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@duvertdanslesrouages.fr
+          value: >-
+            mailto:contact@duvertdanslesrouages.fr
+      social_networks:
+        linkedin:
+          label: >-
+            duvertdanslesrouages
+          value: >-
+            https://www.linkedin.com/company/duvertdanslesrouages/
 
   taxonomies:
     administrator: administrators
